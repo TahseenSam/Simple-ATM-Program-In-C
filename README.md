@@ -1,4 +1,4 @@
-# Simple ATM Program ReadMe
+# Simple ATM Program In C
 
 This is a simple ATM (Automated Teller Machine) program written in C. It allows users to perform basic banking operations, such as depositing money, withdrawing money, and checking their account balance. Below is a brief overview of the program and its functionalities.
 
