@@ -16,7 +16,7 @@ This is a simple ATM (Automated Teller Machine) program written in C. It allows 
 1. Compile the program using a C compiler. You can use a C compiler like GCC to compile the code. For example, you can compile it using the following command:
 
    ```
-   gcc atm.c -o atm
+   gcc atm_program.c -o atm
    ```
 
 2. Run the compiled program:
